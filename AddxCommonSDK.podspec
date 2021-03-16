@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AddxCommonSDK'
-  s.version          = ''
+  s.version          = '0.2.1'
   s.summary          = 'A short description of AddxCommonSDK.'
 
 # This description is used to generate tags and improve search results.
