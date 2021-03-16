@@ -1,0 +1,11 @@
+framework module AddxCommonSDK {
+  umbrella header "AddxCommonSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module AddxCommonSDK.Swift {
+    header "AddxCommonSDK-Swift.h"
+    requires objc
+}
