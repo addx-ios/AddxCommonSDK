@@ -1,5 +1,5 @@
 PODS:
-  - AddxCommonSDK (0.1.0)
+  - AddxCommonSDK (0.0.3)
 
 DEPENDENCIES:
   - AddxCommonSDK (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AddxCommonSDK: 586673ca0c03cc8792c2ec4341fc2a5fdf403b73
+  AddxCommonSDK: 77f7e9e2cfcdf261ac8cd3f1c48040be21817156
 
 PODFILE CHECKSUM: d453494ec42b365a59b4c0f66e5503d9e2a3bb79
 

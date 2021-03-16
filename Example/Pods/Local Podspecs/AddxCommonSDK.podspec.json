@@ -1,6 +1,6 @@
 {
   "name": "AddxCommonSDK",
-  "version": "0.1.0",
+  "version": "0.0.3",
   "summary": "A short description of AddxCommonSDK.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/addx-ios/AddxCommonSDK",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/addx-ios/AddxCommonSDK.git",
-    "tag": "0.1.0"
+    "tag": "0.0.3"
   },
   "swift_versions": "4.2",
   "platforms": {
