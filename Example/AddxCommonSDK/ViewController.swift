@@ -13,7 +13,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        AddxLanguage.english
+        print(R.image.aC())
         // Do any additional setup after loading the view, typically from a nib.
     }
 

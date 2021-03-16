@@ -1,15 +1,30 @@
 PODS:
-  - AddxCommonSDK (0.0.3)
+  - AddxCommonSDK (0.2.1):
+    - Disk
+    - R.swift (~> 5.0)
+  - Disk (0.6.4)
+  - R.swift (5.4.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
 
 DEPENDENCIES:
   - AddxCommonSDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Disk
+    - R.swift
+    - R.swift.Library
 
 EXTERNAL SOURCES:
   AddxCommonSDK:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AddxCommonSDK: 77f7e9e2cfcdf261ac8cd3f1c48040be21817156
+  AddxCommonSDK: af56378453096566c827d64ccb71f452451cca8d
+  Disk: dcee5c2e98fb72f9a924cde8da8435b08244a80e
+  R.swift: c533450b0f7dc494e0993f5f1a1db925d84c3006
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
 
 PODFILE CHECKSUM: d453494ec42b365a59b4c0f66e5503d9e2a3bb79
 
