@@ -1,0 +1,22 @@
+{
+  "name": "AddxCommonSDK",
+  "version": "0.1.0",
+  "summary": "A short description of AddxCommonSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kzhi@addx.ai/AddxCommonSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kzhi@addx.ai": "kzhi@addx.ai"
+  },
+  "source": {
+    "git": "https://github.com/kzhi@addx.ai/AddxCommonSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "AddxCommonSDK/Classes/**/*"
+}

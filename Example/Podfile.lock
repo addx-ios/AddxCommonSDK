@@ -1,0 +1,16 @@
+PODS:
+  - AddxCommonSDK (0.1.0)
+
+DEPENDENCIES:
+  - AddxCommonSDK (from `../`)
+
+EXTERNAL SOURCES:
+  AddxCommonSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AddxCommonSDK: d7bf71d50e3aa36abce756021f11ef4d564a19b6
+
+PODFILE CHECKSUM: dff1663bd6be3f5d1535b38934e28efa6f03812d
+
+COCOAPODS: 1.10.1
