@@ -1,5 +1,5 @@
 PODS:
-  - AddxCommonSDK (0.2.1):
+  - AddxCommonSDK (1.0.0):
     - Disk
     - R.swift (~> 5.0)
   - Disk (0.6.4)
@@ -21,11 +21,11 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AddxCommonSDK: af56378453096566c827d64ccb71f452451cca8d
+  AddxCommonSDK: c61df4c5423bcc9dd7a634d042e9ca5106a756c0
   Disk: dcee5c2e98fb72f9a924cde8da8435b08244a80e
   R.swift: c533450b0f7dc494e0993f5f1a1db925d84c3006
   R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
 
-PODFILE CHECKSUM: d453494ec42b365a59b4c0f66e5503d9e2a3bb79
+PODFILE CHECKSUM: 209a1df1ad5658aafb67dd2e68d7f77a529f1075
 
 COCOAPODS: 1.10.1
